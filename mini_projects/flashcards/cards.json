@@ -1,0 +1,21 @@
+{
+  "title": "Algorithms practice",
+  "cards": [
+    {
+      "question": "Average time complexity of binary search?",
+      "answer": "O(log n)"
+    },
+    {
+      "question": "Which queue method removes the oldest item?",
+      "answer": "dequeue"
+    },
+    {
+      "question": "How does a set treat duplicate values?",
+      "answer": "It retains unique values only"
+    },
+    {
+      "question": "What does CSV stand for?",
+      "answer": "Comma-separated values"
+    }
+  ]
+}

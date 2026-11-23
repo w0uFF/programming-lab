@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Practice Board · Programming Lab</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <p class="eyebrow">Offline practice · synthetic sample</p>
+      <h1>Programming lab</h1>
+      <p>A small task board for programming exercises. Changes stay in your browser.</p>
+    </header>
+    <section class="panel">
+      <div class="summary"><h2>Weekly tasks</h2><span id="count"></span></div>
+      <ul id="tasks"></ul>
+      <form id="add-task">
+        <label for="title">New practice item</label>
+        <div class="inline"><input id="title" maxlength="80" placeholder="e.g. Solve graph exercise" required><button>Add</button></div>
+      </form>
+      <button id="reset" class="muted">Reset examples</button>
+    </section>
+    <footer>Demonstration project: no accounts or server-side data.</footer>
+  </main>
+</body>
+</html>

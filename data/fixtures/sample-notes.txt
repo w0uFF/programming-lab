@@ -1,0 +1,6 @@
+Sorting and searching are related problems.
+Graphs often model connections between locations.
+A queue processes the oldest element first.
+A stack processes the newest element first.
+A CSV file can contain commas inside quoted fields.
+Always test an empty input alongside a normal input.

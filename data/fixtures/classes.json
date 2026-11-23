@@ -1,0 +1,35 @@
+{
+  "term": "Autumn demo",
+  "subjects": [
+    {
+      "code": "CS101",
+      "title": "Programming fundamentals",
+      "credits": 5,
+      "modules": [
+        "control flow",
+        "functions",
+        "data files"
+      ]
+    },
+    {
+      "code": "MATH110",
+      "title": "Discrete structures",
+      "credits": 4,
+      "modules": [
+        "sets",
+        "relations",
+        "graphs"
+      ]
+    },
+    {
+      "code": "WEB120",
+      "title": "Web essentials",
+      "credits": 3,
+      "modules": [
+        "HTML",
+        "CSS",
+        "browser scripting"
+      ]
+    }
+  ]
+}
